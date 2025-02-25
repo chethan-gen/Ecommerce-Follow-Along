@@ -1,7 +1,7 @@
-### Project Title:
+🚀### Project Title:
 **ShopEasy: Your Friendly Online Store**
 
-### Project Overview:
+❤️### Project Overview:
 ShopEasy is a comprehensive e-commerce website that allows users to browse and purchase a variety of products. The website features a catalog of products, a shopping cart, and user authentication for login and signup. The goal is to create a user-friendly shopping experience while implementing essential web development concepts.
 
 ### Key Features:
@@ -13,7 +13,7 @@ ShopEasy is a comprehensive e-commerce website that allows users to browse and p
 6. **Payment Integration**: Integrate payment gateways for secure online transactions (optional).
 7. **User Profile**: Provide a section for users to manage their profiles and view their order history.
 
-### Tech Stack:
+🔨### Tech Stack:
 **Frontend:**
 - React (with Vite for setup)
 - HTML, CSS, JavaScript
