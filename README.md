@@ -52,7 +52,11 @@ I've chosen this project because it provides an opportunity to create a real-wor
 ✅Created the necessary models for the database
 ✅Set up the backend API endpoints for user authentication and product management
 
-### **🛠️ Milestone 3: Implementing User Authentication and Product Management*
+### **🛠️ Milestone 3: Implementing User Authentication and Product Management**
 ✅Implemented user authentication using **Firebase Auth** (optional)
 ✅Created API endpoints for user registration, login, and product management
 ✅Set up the frontend to interact with the backend API endpoints
+
+### **🛠️ Milestone 4: User Management & fiLE Handling**
+✅Created the **User Modle** in Mangoose to define user data structure.
+✅Developed the **Multer for file handling**, allowing user profile and product image uploads.

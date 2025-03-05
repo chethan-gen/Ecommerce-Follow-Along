@@ -25,6 +25,7 @@ app.listen(8080,()=>{
 const express = require('express');
 const app = express();
 const connect = require("./mongoDB.JS")
+const userRouter = require("./controller/userRouter")
 
 app.get("/",(req,res)=>{
     try {
@@ -34,6 +35,10 @@ app.get("/",(req,res)=>{
         
     }
 })
+// localhost:8000/user/signUp//
+// localhost:8000/user/login//
+
+app.use("/user",userRouter)
 
 app.listen(8000,async()=>{
     try {
