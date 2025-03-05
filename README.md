@@ -41,3 +41,18 @@ I've chosen this project because it provides an opportunity to create a real-wor
 - Handling state management in a React application.
 - Deploying a full-stack application to production.
 - Optionally, learning advanced topics like Docker, payment integration, and more.
+
+### **🛠️ Milestone 1: Laying the Foundation**
+✅Initialized the project structure for the bpoth frontend and backend
+✅Installed required dipendies for React, Node.js and Express
+✅set up a basic server in **Node.js** using **Express** 
+
+### **🛠️ Milestone 2: Structuring the project and the  database**
+✅Set up the database schema using **Mongoose** and **MongoDB**
+✅Created the necessary models for the database
+✅Set up the backend API endpoints for user authentication and product management
+
+### **🛠️ Milestone 3: Implementing User Authentication and Product Management*
+✅Implemented user authentication using **Firebase Auth** (optional)
+✅Created API endpoints for user registration, login, and product management
+✅Set up the frontend to interact with the backend API endpoints
