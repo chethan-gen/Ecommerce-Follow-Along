@@ -1,12 +1,15 @@
 const mongoose = require("mongoose");
 
-const schema = mongoose.schema({
-    name: {type:String,required:true},
-    email: {type:String,required:true},
-    password:{type:String,required:true},
-    image:{type:String}
-})
+// Define the schema for the user
+const schema = new mongoose.Schema({
+    name: { type: String, required: true },
+    email: { type: String, required: true },
+    password: { type: String, required: true },
+    image: { type: String } // Optional field for storing the image path
+});
 
-const usermodel = mongoose.model("users",schema);
+// Create the mongoose model
+const usermodel = mongoose.model("users", schema);
 
-module.exports = {usermodel}
+// Export the model
+module.exports = { usermodel };

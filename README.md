@@ -59,4 +59,17 @@ I've chosen this project because it provides an opportunity to create a real-wor
 
 ### **🛠️ Milestone 4: User Management & fiLE Handling**
 ✅Created the **User Modle** in Mangoose to define user data structure.
-✅Developed the **Multer for file handling**, allowing user profile and product image uploads.
+✅Developed the **use constrole** to manage user authenticate(sign up, login)
+✅Implemented **Multer for file handling** ,allowing user profile and product images to be uploaded.
+
+### **🛠️ Milestone 5: User registration and file handling**
+✅ccreated the **user registration** page and implemented the logic to register a new user.
+✅Implemented the **file upload** functionality to allow users to upload their profile pictures and product images
+### **🛠️ Milestone 6: Payment Integration and Final Touches**
+✅Integrated a payment gateway (e.g., Stripe) to enable users to make purchases
+✅Added a shopping cart and checkout functionality
+✅Finalized the project structure and ensured that all components are properly connected and functioning as expected
+### **🛠️ Milestone 7: Testing and Deployment**
+✅Conducted thorough testing of the application to ensure that it is stable and secure
+✅Deployed the application to a production environment (e.g., Heroku)
+
